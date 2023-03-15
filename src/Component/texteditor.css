@@ -1,0 +1,22 @@
+.editor{
+    border: 1px solid black;
+    padding: 2vh;
+    font-size: large;
+}
+
+input{
+    height: fit-content;
+    width: fit-content;
+}
+
+button{
+    border: 1px solid blue;
+    margin: 3%;
+    align-items: center;
+    justify-content: center;
+}
+
+.ref{
+    margin-top: 5%;
+    border: 1px solid blue;
+}
